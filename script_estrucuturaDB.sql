@@ -14,3 +14,8 @@ values
 (1, 'Casa de playa', 'Playa León Dormido');
 
 select * from vivienda;
+
+insert into vivienda
+(codviv, descviv, dirviv)
+values
+(2, 'Casa de tres pisos con terraza', 'San Antonio');
